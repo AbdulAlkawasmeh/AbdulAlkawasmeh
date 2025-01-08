@@ -2,7 +2,7 @@
 My name is Abdul and I am passionate about programming.
 
 - 🔭 I’m currently working on reiterating my Hydrasmart project, a portable water quality monitoring system to improve the quality and useability of the product.
-- 🌱 I’m currently learning more about AWS.
+- 🌱 I’m currently learning more about cloud services.
 
 
 
